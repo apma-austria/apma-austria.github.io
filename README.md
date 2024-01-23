@@ -1,6 +1,8 @@
 # apmajb
 
-Draft website for the APMA Junior Board.
+Website of the [APMA](https://www.apma.at/) Junior Board.
+
+URL: [https://apma-austria.github.io/](https://apma-austria.github.io/)
 
 Created using the template from [StartBootstrap](https://github.com/BlackrockDigital/startbootstrap-clean-blog).
 
